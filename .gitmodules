@@ -1,0 +1,4 @@
+[submodule "conextsolution/ConextSolution"]
+	path = conextsolution/ConextSolution
+	url = git@github.com:conextsolution/ConextSolution.git
+	branch = master
