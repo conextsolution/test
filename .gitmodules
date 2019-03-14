@@ -2,3 +2,8 @@
 	path = conextsolution/ConextSolution
 	url = git@github.com:conextsolution/ConextSolution.git
 	branch = master
+
+[submodule "conextsolution/recruitment"]
+	path = conextsolution/recruitment
+	url = git@github.com:conextsolution/recruitment.git
+	branch = master
