@@ -12,3 +12,8 @@
 	path = conextsolution/Marketing
 	url = git@github.com:conextsolution/Marketing.git
 	branch = demo_marketing
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 6.1
